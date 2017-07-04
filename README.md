@@ -1,5 +1,5 @@
-# Non-blocking, concurrent binary search tree
+# Multicast Routing for Wireless Sensor Networks
 
-A Java implementation of the non-blocking, concurrent binary search tree of Faith Ellen, Panagiota Fatourou, Eric Ruppert and Franck van Breugel [1].
+Multicast routing is one of the most active research area in Wireless Sensor Networks. There are many applications in which one to many dissemination is very important, e.g., in a fire handling system, the actuators need to turn on the water sprinklers on receiving a fire report.
 
-[1] Ellen, F., Fatourou, P., Ruppert, E., van Breugel, F. (2010, July). Non-blocking binary search trees. In Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of distributed computing (pp. 131-140). ACM.
+Developed for TinyOS: an embedded, component-based operating system and platform for low-power wireless devices (e.g. http://zolertia.io).
